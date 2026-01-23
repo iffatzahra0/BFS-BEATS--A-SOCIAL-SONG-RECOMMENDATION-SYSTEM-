@@ -83,6 +83,4 @@ The system models users as nodes in a graph and friendships as weighted edges, u
 
 ## 🚀 How to Run
 
-### Compile
-```bash
-g++ bfsbeats.cpp -o bfsbeats
+- to run code use Microsoft Visual Studio.
